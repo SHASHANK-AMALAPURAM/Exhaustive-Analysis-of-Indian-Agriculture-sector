@@ -1,0 +1,1 @@
+The first phase of the project focuses on transforming raw agricultural datasets in Power BI to prepare them for analysis. This involves importing data from multiple sources, cleaning it by handling missing values and duplicates, and reshaping it using Power Query. Key transformations include merging, splitting, pivoting, and unpivoting columns to organize the data effectively.
